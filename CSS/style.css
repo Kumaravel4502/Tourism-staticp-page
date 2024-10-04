@@ -1,0 +1,18 @@
+.bg-container {
+    background-image: url('https://ik.imagekit.io/9rldi0s2f8/mern/ACS_1332-768x1024.jpg');
+    width: 400px;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.bg-container-places {
+    background-color: #57ADE8;
+    width: 70%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px auto;
+}
